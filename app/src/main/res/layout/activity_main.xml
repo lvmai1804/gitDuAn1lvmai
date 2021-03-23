@@ -27,4 +27,8 @@
         android:text="Test"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+    <Button
+        android:text="ProPlayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
